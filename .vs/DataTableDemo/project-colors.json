@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5adbbb89-9ebf-4cad-a242-e23aae04bffe": {
+      "ProjectGuid": "5adbbb89-9ebf-4cad-a242-e23aae04bffe",
+      "DisplayName": "Customers.Repositories.Context",
+      "ColorIndex": 0
+    },
+    "85f9a5ca-0203-481d-a0b9-5d655e0fa61e": {
+      "ProjectGuid": "85f9a5ca-0203-481d-a0b9-5d655e0fa61e",
+      "DisplayName": "CustomersApi",
+      "ColorIndex": 1
+    },
+    "6d6290bc-b1e8-48a3-bea6-f997136242f7": {
+      "ProjectGuid": "6d6290bc-b1e8-48a3-bea6-f997136242f7",
+      "DisplayName": "DataTableDemo",
+      "ColorIndex": 2
+    },
+    "b172a6a4-b2d2-4259-afa1-d78d2add226a": {
+      "ProjectGuid": "b172a6a4-b2d2-4259-afa1-d78d2add226a",
+      "DisplayName": "Customers.Services.Implementation",
+      "ColorIndex": 3
+    },
+    "63d6704f-1222-4ce7-a173-4f9a8dcdd2bd": {
+      "ProjectGuid": "63d6704f-1222-4ce7-a173-4f9a8dcdd2bd",
+      "DisplayName": "Customers.Repositories.Implementation",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
